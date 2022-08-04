@@ -14,6 +14,8 @@ The largest volume of rides was recorded in Urban cities and the smallest volume
 
 !["PyBer Summary DataFrame"](./Resources/PyBer_Summary.png)
 
+!["PyBer Summary DataFrame"](./Resources/PyBer_fare_summary.png)
+
 ## Summary
 
 ### Business Recommendations
