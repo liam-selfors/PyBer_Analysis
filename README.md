@@ -10,7 +10,7 @@ This analysis includes a summary DataFrame of the ride-sharing data by city type
 
 ### Differences in Ride-Sharing Data Among the Different City Types
 
-!["Image"](./Resources/image.png)
+!["PyBer Summary DataFrame"](./Resources/PyBer_Summary.png)
 
 ## Summary
 
