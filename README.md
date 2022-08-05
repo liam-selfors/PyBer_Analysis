@@ -22,6 +22,6 @@ The largest volume of rides was recorded in Urban cities and the smallest volume
 
 #### Disparities Among the City Types
 
-1. Recommendation
-2. Recommendation
-3. Recommendation
+1. There are many more drivers than are needed for the ride volume in urban cities as opposed to suburban and rural cities that have not reached the same levels of saturation. Desicion makers may benefit from shifting the volume of drivers outwards toward suburban and rural areas.
+2. Decrease fares in urban areas to encourage a larger volume of rides in urban cities which is proven to have enough drivers to support the increase in rides due to cheaper fares.
+3. The time series of total fare by city type is relatively flat across the months of Jan-May, it is reccomended that no seasonal action is taken.
